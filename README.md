@@ -1,2 +1,8 @@
-# Machine-Learning-Using-AWS
-This repository contains implementation of various AWS AI Services
+## For more details, please read below blog posts
+
+### Amazon Bedrock
+* [click here]()
+
+
+
+
